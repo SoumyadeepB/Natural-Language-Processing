@@ -41,7 +41,7 @@ for name, from_person in [("sara", from_sara), ("chris", from_chris)]:
             emailText = emailText.replace("chris", "").replace("germani","")
             emailText = emailText.replace("sshacklensf", "").replace("cgermannsf","")
 
-            ### append the text to word_data
+            
             word_data.append(emailText)
 
             ### append a 0 to from_data if email is from Sara, and 1 if email is from Chris
