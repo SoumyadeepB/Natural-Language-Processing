@@ -4,13 +4,10 @@ import os
 import pickle
 import re
 import sys
-
 from parse_out_email_text import parseOutText
-
 
 from_sara  = open("from_sara.txt", "r")
 from_chris = open("from_chris.txt", "r")
-
 from_data = []
 word_data = []
 
