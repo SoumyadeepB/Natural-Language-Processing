@@ -13,8 +13,7 @@ word_data = []
 
 """temp_counter is a way to speed up the development--there are
 thousands of emails from Sara and Chris, so running over all of them
-can take a long time
-temp_counter helps you only look at the first 200 emails in the list so you
+can take a long time temp_counter helps you only look at the first 200 emails in the list so you
 can iterate your modifications quicker"""
 
 temp_counter = True
