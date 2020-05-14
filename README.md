@@ -2,10 +2,10 @@
 
 Implementation of NLP Projects:
 
-- A Basic Chatbot 
-
-
 - Email Spam detector
+
+
+- A Basic Chatbot 
 
 ![image](https://user-images.githubusercontent.com/12089275/81997151-3c82a880-964f-11ea-9594-576536fd0fb3.png)
 
