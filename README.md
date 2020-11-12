@@ -2,7 +2,7 @@
 
 Implementation of NLP Projects:
 
-- Email Spam detector
+- Email Spam detector 
 
 
 - A Basic Chatbot 
