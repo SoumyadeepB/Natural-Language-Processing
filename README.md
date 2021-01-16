@@ -1,7 +1,7 @@
 # Natural Language Processing  
 
 Implementation of NLP Projects: 
-
+ 
 - Email Spam detector   
 
 
